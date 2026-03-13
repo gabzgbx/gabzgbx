@@ -6,7 +6,7 @@
 
 Sou estudante de tecnologia apaixonada por aprender novas ferramentas e construir soluções. Estou em busca de uma oportunidade de estágio em Desenvolvimento de Software, trazendo na bagagem habilidades de resolução de problemas, comunicação e experiência com o ecossistema digital. 
 
-Quando não estou focada nos códigos, você me encontra imersa no mundo do PC Gaming — seja jogando *Call of Duty*, curtindo a franquia *skate.* na EA App, ou praticando skate na vida real pela modalidade Street. 🛹🎮
+Quando não estou focada nos códigos, você me encontra imersa no mundo do PC Gaming — seja jogando *Call of Duty*
 
 - 🎓 **Formação:** Estudante na Universidade Cidade de São Paulo (UNICID).
 - 🌱 **Foco atual:** Desenvolvendo projetos e estudando **Java, PHP e Banco de Dados**.
